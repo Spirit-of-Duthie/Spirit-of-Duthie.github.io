@@ -1,4 +1,4 @@
-baseurl = "https://Spirit-of-Duthie.github.io/"
+baseurl = "https://Spirit-of-Duthie.github.io/public"
 title = "The Real Duthie Day 2019"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
