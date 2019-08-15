@@ -12,8 +12,6 @@ weight = 1
 
 Welcome to Duthie Day! I'm Rob McCulloch, Chieftain of this tribe. How.
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
 
 > Don't forget to speak to our sponsors!
 

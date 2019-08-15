@@ -17,12 +17,13 @@ Our Speakers for the clinical session:
 
 > The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
 
-## Kat Butler
+## Circuit 1
 
-Kat is going to tell us about her abstract.
 
-## Adrian Kendal
+### Trainee Name 1
 
-And Adrian too! He might even show us some sweet data.
+Their abstract in plain text: The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
 
-![Look at this graph!]("img/graph.png")
+> Or have their abstract as a quote: The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+
+![Look at this graph!](/static/img/graph.png)
