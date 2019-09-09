@@ -1,5 +1,5 @@
 baseurl = "https://Spirit-of-Duthie.github.io/public"
-title = "The Final Duthie Day 2019"
+title = "Duthie Day 2019"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -14,8 +14,7 @@ googleAnalytics = ""
   description = "There is a fracture. I need to fix it."
   copyright = "&copy;2019 OxBone"
   sidebarAbout = [
-    "Every year, literally tens of Oxford orthpaedic registrars and overly keen core trainees gather to celebrate Duthie Day, and add a regional presentation to their ISCP.",
-    "The day is in honour of Robert Duthie, the discoverer of bone."
+    "Every year, Oxford orthpaedic registrars organise a conference to showcase the local academic and clinical work, and hear from international speakers. The day is named after Robert Duthie, who made great contributions to training and research in Oxford."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a

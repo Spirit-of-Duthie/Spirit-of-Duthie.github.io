@@ -2,7 +2,7 @@
 date = "2016-11-05T19:41:01+05:30"
 title = "Arrivals and Welcome Address"
 draft = false
-image = "img/welcome.jpg"
+image = "img/worcester.jpg"
 showonlyimage = false
 weight = 1
 +++
@@ -10,11 +10,11 @@ weight = 1
 08:30-09:00
 <!--more-->
 
-Welcome to Duthie Day! I'm Rob McCulloch, Chieftain of this tribe. How.
+Welcome to Duthie Day! This year, our chief resident Rob McCulloch will host the event on behalf of the OOTA committee at the Sultan Nazrin Shah Centre, Worcester College, Oxford.
+
+Registration begins at 8:30am, with a brief welcome address from Rob before the day begins in force.
 
 
-> Don't forget to speak to our sponsors!
+## Our sponsors
 
-## WARNING
-
-This party is gonna get started....
+We would like to thank our sponsors, without whom this day would not be possible. We would encourage everyone to visit the stands to take part in the competition for a chance to win some very generous prizes.
