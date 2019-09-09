@@ -25,7 +25,6 @@ or by cheque sent to:
 If you do not book and pay in advance, we will unfortunately be able to provide dinner for you or your guests. If you have booked and paid but not recieved your ticket, please contact us by reply to the email we sent confirming your booking so we can ensure your ticket arrives in time.
 
 [Book dinner](mailto:oxbone.org@gmail.com?cc=robmac1986@gmail.com&subject=Reservation for Duthie Day dinner&body=How many Tickets do you want?%0D%0A%0D%0AWhat dietary requirements do you have?%0D%0A%0D%0APlease send payment to BACS Details, or cheques to Postal address. Once payment is processed, your ticket will be emailed to the email address you used to send this message. Please print and bring with you on the day)
-
 *Don't forget* to send payment when you book!
 
 

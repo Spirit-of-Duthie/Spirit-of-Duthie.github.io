@@ -53,6 +53,10 @@ googleAnalytics = ""
   name = "Book, Submit, Vote"
   url = "contact/"
 
+  [[params.navlinks]]
+  name = "Book, Submit, Vote2"
+  url = "booksubmitvote/"
+
   [params.social]
   #facebook      = "full page or profile url in facebook"
   #googleplus    = "full profile url in googleplus"
