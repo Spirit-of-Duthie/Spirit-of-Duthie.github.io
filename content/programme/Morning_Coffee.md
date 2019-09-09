@@ -10,4 +10,15 @@ weight = 4
 09:30-10:00
 <!--more-->
 
-Reminder about sponsors
+Please visit our sponsors: their generosity helps support this day, and they've got prizes to win this year!
+
+- *Zimmer*
+- *Accumed*
+- *Corin*
+- *Arthrex*
+- *Stryker*
+- *Smith and Nephew*
+- *Biocomposites*
+- *DePuy Synthes*
+- *Medartis*
+- *Heraeus*

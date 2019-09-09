@@ -1,13 +1,13 @@
 +++
-image = "img/evening.jpg"
+image = "img/peters.jpg"
 showonlyimage = false
 date = "2016-11-05T19:57:40+05:30"
-title = "After party"
+title = "Delegates dinner"
 draft = false
 weight = 7
 +++
 
-15:00 onwards
+17:00 onwards. Please remember to book your tickets in advance.
 
 <!--more-->
 

@@ -11,4 +11,4 @@ weight = 7
 
 <!--more-->
 
-More science.
+Oxford has a strong commitment to academia, often based at the Botnar. At any given time, about one fifth of our trainees are out of training for dedicated research time, often for a higher degree. This session will showcase some of the work going on in region.

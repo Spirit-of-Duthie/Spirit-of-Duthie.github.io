@@ -10,20 +10,20 @@ weight = 5
 10:00-12:00
 <!--more-->
 
-Our Speakers for the clinical session:
+Presentations from our clinical trainees who, despite no dedicated time for research, have been involved in clinical trials and developing new patient pathways. Themes this year include:
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+1. Randomised controlled trials in fracture management
+2. Novel techniques described for arthritis treatment
+3. Teaching and training
+4. National level guidelein development and assessment
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+At the end of the day, there will be live voting and prizes for the best presentations.
 
 ## Circuit 1
 
 
 ### Trainee Name 1
 
-Their abstract in plain text: The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+Abstract Text
 
-> Or have their abstract as a quote: The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-![Look at this graph!](/static/img/graph.png)
+![Figure](/static/img/graph.png)

@@ -28,7 +28,7 @@ googleAnalytics = ""
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "oxbone.org@gmail.com"
+  #email = "oxbone.org@gmail.com"
 
     # Optional Matomo analytics (formerly piwik)
       # [params.analytics.matomo]
@@ -49,13 +49,13 @@ googleAnalytics = ""
   name = "About Duthie"
   url = "about/"
 
+  #[[params.navlinks]]
+  #name = "Book, Submit, Vote"
+  #url = "contact/"
+
   [[params.navlinks]]
   name = "Book, Submit, Vote"
   url = "contact/"
-
-  [[params.navlinks]]
-  name = "Book, Submit, Vote2"
-  url = "booksubmitvote/"
 
   [params.social]
   #facebook      = "full page or profile url in facebook"
