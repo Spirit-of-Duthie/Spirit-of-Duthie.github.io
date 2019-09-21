@@ -2,18 +2,32 @@
 image = "img/girdlestone.jpg"
 showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
-title = "Guest Speaker: Morning Speaker"
+title = "Guest Speakers"
 draft = false
 weight = 2
 +++
 
-09:00-09:30
+Throughout the day
 <!--more-->
 
-A bit of intro about the first speaker
+We have the pleasure of hosting a number of eminent speakers from around the world.
 
-> Some other details
+> We hope you will be able to join them for [dinner](https://spirit-of-duthie.github.io/public/contact/) after the academic sessions have ended for the day.
 
-## Their talk
 
-Other bits of info
+# Professor C. Gerber
+## Department of Orthopaedics, University of Zürich
+
+![C Gerber](/static/img/gerber.jpg)
+
+# Professor J. Katz
+## Professor of Medicine and Orthopaedic Surgery, Harvard Medical School
+![J Katz](/static/img/katz.jpg)
+
+# Professor T. Briggs
+## Royal National Orthopaedic Hospital, and National Director for Clinical Quality and Efficiency for the NHS
+![T Briggs](/static/img/briggs.jpg)
+
+# Mr D. Jaffray
+## Consultant Spine Surgeon, Robert Jones and Agnes Hunt Hospital
+![D Jaffray](/static/img/jaffray.jpg)
