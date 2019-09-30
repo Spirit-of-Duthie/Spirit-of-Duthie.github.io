@@ -7,7 +7,7 @@ draft = false
 weight = 7
 +++
 
-17:00 onwards. Please remember to [book your tickets](https://spirit-of-duthie.github.io/public/contact/) in advance, and bring your tickets.
+19:00 onwards. Please remember to [book your tickets](https://spirit-of-duthie.github.io/public/contact/) in advance, and bring your tickets.
 
 
 
