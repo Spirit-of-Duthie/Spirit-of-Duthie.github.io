@@ -6,6 +6,13 @@ title = "Book, Submit, Vote"
 
 ## Booking for Delegates Dinner
 
+#### Step One
+Check your diary for the evening of 13 Dec '19 at St Peter's College
+#### Step Two
+Click the link below to book your dinner (no walk-ins this year)
+#### Step Three
+Send payment. Your booking won't be completed until payment is received
+
 This year's dining is strictly ticketed and seated. Please use the link below to request a booking to tell use the number of guests and any dietary requirements. Tickets cost £65 per person for a four course meal and wine. Once you have paid either by BACS:
 
 > Bank: Lloyds

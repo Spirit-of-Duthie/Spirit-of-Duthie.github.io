@@ -15,7 +15,7 @@ Presentations from our clinical trainees who, despite no dedicated time for rese
 1. Randomised controlled trials in fracture management
 2. Novel techniques described for arthritis treatment
 3. Teaching and training
-4. National level guidelein development and assessment
+4. National level guideline development and assessment
 
 At the end of the day, there will be live voting and prizes for the best presentations.
 
