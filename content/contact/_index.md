@@ -11,9 +11,9 @@ Check your diary for the evening of 13 Dec '19 at St Peter's College
 #### Step Two
 Click the link below to book your dinner (no walk-ins this year)
 #### Step Three
-Send payment. Your booking won't be completed until payment is received
+Send payment of £65 per person. Your booking won't be completed until payment is received
 
-This year's dining is strictly ticketed and seated. Please use the link below to request a booking to tell use the number of guests and any dietary requirements. Tickets cost £65 per person for a four course meal and wine. Once you have paid either by BACS:
+This year's dining is strictly ticketed and seated. Please use the link below to request a booking to tell use the number of guests and any dietary requirements. Tickets cost **£65 per person** for a four course meal and wine. Once you have paid either by BACS:
 
 > Bank: Lloyds
 > Sort code: 30-98-97
@@ -31,7 +31,7 @@ or by cheque sent to:
 
 If you do not book and pay in advance, we will unfortunately be able to provide dinner for you or your guests. If you have booked and paid but not received your ticket, please contact us by reply to the email we sent confirming your booking so we can ensure your ticket arrives in time.
 
-[Book dinner](mailto:oxbone.org+dd19booking@gmail.com?cc=adriankendal@hotmail.com&subject=Reservation for Duthie Day dinner&body=How many Tickets do you want?%0D%0A%0D%0AWhat dietary requirements do you have?%0D%0A%0D%0APlease send payment to BACS Details, or cheques to Postal address. Once payment is processed, your ticket will be emailed to the email address you used to send this message. Please print and bring with you on the day)
+[Book dinner](mailto:oxbone.org+dd19booking@gmail.com?cc=adriankendal@hotmail.com&subject=Reservation for Duthie Day dinner&body=How many Tickets do you want?%0D%0A%0D%0AWhat dietary requirements do you have?%0D%0A%0D%0APlease send payment of £65pp to BACS Details, or cheques to Postal address. Once payment is processed, your ticket will be emailed to the email address you used to send this message. Please print and bring with you on the day)
 
 *Don't forget* to send payment when you book!
 
