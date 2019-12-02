@@ -4,7 +4,7 @@ image = "img/sponsor.jpg"
 showonlyimage = true
 date = "2016-11-05T20:23:59+05:30"
 title = "Our proud sponsors"
-weight = 11
+weight = 20
 +++
 
 Buy their stuff! Win their prizes!

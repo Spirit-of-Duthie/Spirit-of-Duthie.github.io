@@ -1,6 +1,6 @@
 +++
 date = "2016-11-05T19:41:01+05:30"
-title = "Arrivals and Welcome Address"
+title = "Arrivals, Refreshments and Welcome Address"
 draft = false
 image = "img/worcester.jpg"
 showonlyimage = false
