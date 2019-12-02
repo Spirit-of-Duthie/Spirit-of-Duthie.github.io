@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>Arrivals and Welcome Address</title>
+      <title>Arrivals, Refreshments and Welcome Address</title>
       <link>https://Spirit-of-Duthie.github.io/public/programme/welcome/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
@@ -30,39 +30,125 @@
     </item>
     
     <item>
+      <title>Guest Speaker Professor Jeff Katz</title>
+      <link>https://Spirit-of-Duthie.github.io/public/programme/katz/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>https://Spirit-of-Duthie.github.io/public/programme/katz/</guid>
+      <description>&lt;p&gt;“Meniscal tears and concomitant osteoarthritis: Treatment controversies and a path forward”&lt;/p&gt;
+
+&lt;p&gt;09:00-10:00&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Academic Sessions - Part One</title>
+      <link>https://Spirit-of-Duthie.github.io/public/programme/academic1/</link>
+      <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
+      
+      <guid>https://Spirit-of-Duthie.github.io/public/programme/academic1/</guid>
+      <description>&lt;p&gt;Chaired by Mr Rick Brown&lt;/p&gt;
+
+&lt;p&gt;10:00-10:45&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Coffee time</title>
       <link>https://Spirit-of-Duthie.github.io/public/programme/morning_coffee/</link>
       <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
       
       <guid>https://Spirit-of-Duthie.github.io/public/programme/morning_coffee/</guid>
-      <description>&lt;p&gt;09:30-10:00&lt;/p&gt;</description>
+      <description>&lt;p&gt;10:45-11:00&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Clinical Sessions</title>
-      <link>https://Spirit-of-Duthie.github.io/public/programme/work5/</link>
-      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      <title>Academic Sessions - Part Two</title>
+      <link>https://Spirit-of-Duthie.github.io/public/programme/academic2/</link>
+      <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
       
-      <guid>https://Spirit-of-Duthie.github.io/public/programme/work5/</guid>
-      <description>&lt;p&gt;10:00-12:00&lt;/p&gt;</description>
+      <guid>https://Spirit-of-Duthie.github.io/public/programme/academic2/</guid>
+      <description>&lt;p&gt;Chaired by Mr Rick Brown&lt;/p&gt;
+
+&lt;p&gt;11:10-11:45&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Guest Speaker Professor Tim Briggs</title>
+      <link>https://Spirit-of-Duthie.github.io/public/programme/briggs/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>https://Spirit-of-Duthie.github.io/public/programme/briggs/</guid>
+      <description>&lt;p&gt;“Getting it right first time and how to improve care for NHS users”&lt;/p&gt;
+
+&lt;p&gt;11:45-12:45&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>TOTY Nominations</title>
+      <link>https://Spirit-of-Duthie.github.io/public/programme/toty/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>https://Spirit-of-Duthie.github.io/public/programme/toty/</guid>
+      <description>&lt;p&gt;12:45-12:50&lt;/p&gt;
+
+&lt;p&gt;Live voting later in the day, with presentations at Duthie Day Dinner&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Lunch</title>
-      <link>https://Spirit-of-Duthie.github.io/public/programme/work6/</link>
+      <link>https://Spirit-of-Duthie.github.io/public/programme/lunch/</link>
       <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
       
-      <guid>https://Spirit-of-Duthie.github.io/public/programme/work6/</guid>
-      <description>&lt;p&gt;12:00-13:30&lt;/p&gt;</description>
+      <guid>https://Spirit-of-Duthie.github.io/public/programme/lunch/</guid>
+      <description>&lt;p&gt;12:50-13:30&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Academic Sessions</title>
-      <link>https://Spirit-of-Duthie.github.io/public/programme/work7/</link>
-      <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
+      <title>Guest Speaker Mr David Jaffray</title>
+      <link>https://Spirit-of-Duthie.github.io/public/programme/jaffray/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       
-      <guid>https://Spirit-of-Duthie.github.io/public/programme/work7/</guid>
-      <description>&lt;p&gt;13:30 - 15:00&lt;/p&gt;</description>
+      <guid>https://Spirit-of-Duthie.github.io/public/programme/jaffray/</guid>
+      <description>&lt;p&gt;13:30-14:30&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Clinical Sessions</title>
+      <link>https://Spirit-of-Duthie.github.io/public/programme/clinical1/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      
+      <guid>https://Spirit-of-Duthie.github.io/public/programme/clinical1/</guid>
+      <description>&lt;p&gt;Chaired by Prof Xavier Griffin&lt;/p&gt;
+
+&lt;p&gt;14:30-15:45&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Coffee and Annual Photo</title>
+      <link>https://Spirit-of-Duthie.github.io/public/programme/afternoon-coffee/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      
+      <guid>https://Spirit-of-Duthie.github.io/public/programme/afternoon-coffee/</guid>
+      <description>&lt;p&gt;15:45-16:05&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Guest Speaker Professor Christian Gerber</title>
+      <link>https://Spirit-of-Duthie.github.io/public/programme/gerber/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>https://Spirit-of-Duthie.github.io/public/programme/gerber/</guid>
+      <description>&lt;p&gt;“How can we transmit our knowledge?”&lt;/p&gt;
+
+&lt;p&gt;16:05-17:05&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Closing remarks and prize presentations</title>
+      <link>https://Spirit-of-Duthie.github.io/public/programme/work5/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      
+      <guid>https://Spirit-of-Duthie.github.io/public/programme/work5/</guid>
+      <description>&lt;p&gt;17:05-17:30&lt;/p&gt;</description>
     </item>
     
     <item>
