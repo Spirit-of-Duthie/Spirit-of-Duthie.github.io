@@ -12,13 +12,5 @@ Buy their stuff! Win their prizes!
 
 Please visit our sponsors: their generosity helps support this day, and they've got prizes to win this year!
 
-- *Zimmer*
-- *Accumed*
-- *Corin*
-- *Arthrex*
-- *Stryker*
-- *Smith and Nephew*
-- *Biocomposites*
-- *DePuy Synthes*
-- *Medartis*
-- *Heraeus*
+- *Sponsor 1*
+- *Sponsor 2*

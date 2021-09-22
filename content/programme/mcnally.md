@@ -1,13 +1,14 @@
 +++
-image = "img/girdlestone.jpg"
+image = "img/mcnally.jpg"
 showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
-title = "Guest Speakers"
+title = "Guest Speaker Prof Martin McNally"
 draft = false
-weight = 2
+weight = 10
 +++
+"If there's pus about, let it out"
 
-Throughout the day
+13:30-14:30
 <!--more-->
 
 We have the pleasure of hosting a number of eminent speakers from around the world.

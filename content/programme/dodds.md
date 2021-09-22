@@ -1,13 +1,14 @@
 +++
-image = "img/girdlestone.jpg"
+image = "img/dodds.jpg"
 showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
-title = "Guest Speakers"
+title = "Guest Speaker Richard Dodds"
 draft = false
-weight = 2
+weight = 13
 +++
+“Gold (Gold) Always believe in your soul”
 
-Throughout the day
+16:05-17:05
 <!--more-->
 
 We have the pleasure of hosting a number of eminent speakers from around the world.

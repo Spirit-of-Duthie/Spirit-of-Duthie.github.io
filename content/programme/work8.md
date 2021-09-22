@@ -19,20 +19,20 @@ Dinner will be at St Peter's College, a short walk from the venue for the daytim
 
 ## Starter
 
-Scotched Duck Egg, or 'Welsh Egg'(_V_), with Homemade Piccalilli and Herb Salad
+PB&J Sandwich
 
 ## Fish
 
-Confit of Salmon or Vegetables(_V_), Horseradish, Sweet Chilli and Spicy Peaches
+Confit of Fish fingers or Vegetables(_V_), Helmans
 
 ## Main
 
-Oven Roast Ribeye Steak with a Gratin of Wild Mushrooms _or_ Chargrilled vegetables on leeks, chestnut mushrooms, peas and potato gnocchi (_V_)
+Cheeseburger-stuffed crust  _or_ Chargrilled Cheese-burger stuffed crust pizza (_V_)
 
 Served with Artisan breads, Seasonal vegetables and potatoes
 
 ## Dessert
 
-Fig Frangipane Tart with Roasted Figs and Vanilla Pod Ice Cream
+Pity, mixed with sadness
 
 _Coffee, truffles and St Peter’s mints to finish_

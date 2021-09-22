@@ -2,11 +2,11 @@
 image = "img/katz.jpg"
 showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
-title = "Guest Speaker Professor Jeff Katz"
+title = "Guest Speaker ???"
 draft = false
 weight = 3
 +++
-“Meniscal tears and concomitant osteoarthritis: Treatment controversies and a path forward”
+“Do we have one?”
 
 09:00-10:00
 <!--more-->
@@ -16,32 +16,24 @@ We have the pleasure of hosting a number of eminent speakers from around the wor
 > We hope you will be able to join them for [dinner](https://spirit-of-duthie.github.io/public/contact/) after the academic sessions have ended for the day.
 
 
-## Professor C. Gerber
+## Miss Deborah Eastwood
 
-Department of Orthopaedics, University of Zürich
+RNOH/GOSH
 
-![C Gerber](/static/img/gerber.jpg)
-
-***
-
-## Professor J. Katz
-
-Professor of Medicine and Orthopaedic Surgery, Harvard Medical School
-
-![J Katz](/static/img/katz.jpg)
+![D Eastwood](/static/img/eastwood.jpg)
 
 ***
 
-## Professor T. Briggs
+## Mr Richard Dodds
 
-Royal National Orthopaedic Hospital, and National Director for Clinical Quality and Efficiency for the NHS
+RBH/Team GB
 
-![T Briggs](/static/img/briggs.jpg)
+![R Dodds](/static/img/dodds.jpg)
 
 ***
 
-## Mr D. Jaffray
+## Professor Martin McNally
 
-Consultant Spine Surgeon, Robert Jones and Agnes Hunt Hospital
+OUH/BIU
 
-![D Jaffray](/static/img/jaffray.jpg)
+![M McNally](/static/img/mcnally.jpg)

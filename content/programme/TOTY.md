@@ -11,6 +11,8 @@ weight = 8
 Live voting later in the day, with presentations at Duthie Day Dinner
 <!--more-->
 
+#VOTE FOR TOTY USING THIS LINK TBC
+
 We have the pleasure of hosting a number of eminent speakers from around the world.
 
 > We hope you will be able to join them for [dinner](https://spirit-of-duthie.github.io/public/contact/) after the academic sessions have ended for the day.
