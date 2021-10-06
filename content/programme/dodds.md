@@ -4,11 +4,9 @@ showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
 title = "Guest Speaker Richard Dodds"
 draft = false
-weight = 13
+weight = 10
 +++
-“Gold (Gold) Always believe in your soul”
-
-16:05-17:05
+13:30-14:30
 <!--more-->
 
 We have the pleasure of hosting a number of eminent speakers from around the world.

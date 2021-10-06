@@ -12,5 +12,5 @@ Buy their stuff! Win their prizes!
 
 Please visit our sponsors: their generosity helps support this day, and they've got prizes to win this year!
 
-- *Sponsor 1*
-- *Sponsor 2*
+- *Taught MSc in Musculoskeletal Sciences - Prof Steph Dakin*
+- *Girdlestone Society - Prof Martin McNally*

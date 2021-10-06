@@ -4,11 +4,9 @@ showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
 title = "Guest Speaker Prof Martin McNally"
 draft = false
-weight = 10
+weight = 7
 +++
-"If there's pus about, let it out"
-
-13:30-14:30
+11:45-12:45
 <!--more-->
 
 We have the pleasure of hosting a number of eminent speakers from around the world.

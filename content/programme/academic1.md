@@ -6,8 +6,6 @@ title = "Academic Sessions - Part One"
 draft = false
 weight = 4
 +++
-Chaired by TBC
-
 10:00-10:45
 
 <!--more-->

@@ -4,11 +4,9 @@ showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
 title = "Guest Speaker Deborah Eastwood"
 draft = false
-weight = 7
+weight = 3
 +++
-“Bones - how many do we actually need?”
-
-11:45-12:45
+09:00-10:00
 <!--more-->
 
 We have the pleasure of hosting a number of eminent speakers from around the world.

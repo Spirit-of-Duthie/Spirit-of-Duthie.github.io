@@ -29,7 +29,7 @@ Confit of Fish fingers or Vegetables(_V_), Helmans
 
 Cheeseburger-stuffed crust  _or_ Chargrilled Cheese-burger stuffed crust pizza (_V_)
 
-Served with Artisan breads, Seasonal vegetables and potatoes
+Served with Artisan breads, seasonal vegetables and potatoes
 
 ## Dessert
 

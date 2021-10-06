@@ -12,7 +12,7 @@ weight = 1
 
 Welcome to Duthie Day! This year, our chief resident James Duncan will host the event on behalf of the OOTA committee at the Sultan Nazrin Shah Centre, Worcester College, Oxford.
 
-Registration begins at 8:30am, with a brief welcome address from Rob before the day begins in force.
+Registration begins at 8:30am, with a brief welcome address from James before the day begins in force.
 
 
 ## Chief resident's address

@@ -6,8 +6,6 @@ title = "Academic Sessions - Part Two"
 draft = false
 weight = 6
 +++
-Chaired by Mr Rick Brown
-
 11:10-11:45
 
 <!--more-->
