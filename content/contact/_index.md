@@ -18,6 +18,7 @@ This year's dining is strictly ticketed and seated. Please use the link below to
 by BACS (preferably):
 
 > Bank: Lloyds
+> Account name: Oxford Trauma and Orthopaedic Trainees Association
 > Sort code: 30-98-97
 > Account No: 32382668
 > Please use your name as the reference
