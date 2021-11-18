@@ -11,39 +11,104 @@ weight = 8
 Live voting later in the day, with presentations at Duthie Day Dinner
 <!--more-->
 
-#VOTE FOR TOTY USING THIS LINK TBC
+The consultants below have been nominated for Trainer Of The Year. They represent the best of our region and we want to recognise their efforts, as well as emulate these behaviours as consultants ourselves one day.
 
-We have the pleasure of hosting a number of eminent speakers from around the world.
+TOTY voting will take place via an online poll: please input the code on screen at [menti.com](www.menti.com) to cast your vote. Results will be announced at the [dinner](https://spirit-of-duthie.github.io/public/contact/).
 
-> We hope you will be able to join them for [dinner](https://spirit-of-duthie.github.io/public/contact/) after the academic sessions have ended for the day.
+### Max Gibbons
 
+Consultant Sarcoma Surgeon, Nuffield Orthopaedic Centre
 
-## Professor C. Gerber
+> “incredibly enthusiastic about surgical training and recognises the additional challenges that now exist but does not allow this to negatively impact his trainees experience.”
 
-Department of Orthopaedics, University of Zürich
-
-![C Gerber](/static/img/gerber.jpg)
-
-***
-
-## Professor J. Katz
-
-Professor of Medicine and Orthopaedic Surgery, Harvard Medical School
-
-![J Katz](/static/img/katz.jpg)
+> “encourages trainees to take charge of both operating lists and procedures which is invaluable for future consultant practice, whilst providing helpful and experienced comment when required”
 
 ***
 
-## Professor T. Briggs
+### Jasdeep Giddie
 
-Royal National Orthopaedic Hospital, and National Director for Clinical Quality and Efficiency for the NHS
+Consultant Foot and Ankle Surgeon, Wexham Park Hospital
 
-![T Briggs](/static/img/briggs.jpg)
+> “Knowledge of the curriculum is fantastic”
+
+> “A role model for all wishing to pursue a consultant career”
 
 ***
 
-## Mr D. Jaffray
+### Alistair Graham
 
-Consultant Spine Surgeon, Robert Jones and Agnes Hunt Hospital
+Consultant Hand Surgeon, Stoke Mandeville Hospital
 
-![D Jaffray](/static/img/jaffray.jpg)
+>”Genuinely cares about training”
+
+> “Treats you as a colleague”
+
+***
+
+### Steve Gwilym
+
+Consultant Shoulder and Elbow Surgeon, Nuffield Orthopaedic Centre
+
+> “Allows time to learn from mistakes before taking over”
+
+> ”Thoughtful feedback and clear areas to improve on”
+
+***
+
+### Alpesh Kothari
+
+Consultant Paediatric Orthopaedic Surgeon, John Radcliffe Hospital and Nuffield Orthopaedic Centre
+
+
+> “Goes above and beyond for his trainees”
+
+> “Understands trainees needs”
+
+***
+
+### Dev Mahadevan
+
+Consultant Foot and Ankle Surgeon, Royal Berkshire Hospital
+
+
+>”always prioritises training in both theatre and clinic”
+
+> Generous with his time, advice and guidance”
+
+***
+
+### John Morley
+
+Consultant Hip and Knee Surgeon, Royal Berkshire Hospital
+
+> “He is a fat static advocate for the trainees”
+
+> “Infinite patience and sound mentorship brought me back up to speed”
+
+***
+
+### Andy Titchener
+
+Consultant Shoulder and Elbow Surgeon, John Radcliffe Hospital and Nuffield Orthopaedic Centre
+
+> “allowing trainees to do as much as they can and guide them through tricky steps rather than taking over”
+
+> “Even after leaving the JR he has been supportive and generous with his time”
+
+***
+
+### Ed Seel
+
+Consultant Spinal Surgeon, Stoke Mandeville Hospital
+
+> “provides a calm relaxed atmosphere for trainees to flourish”
+
+> “Ample opportunities for trainees to refine and develop surgical spinal skills”
+
+### Ed Tayton
+
+Consultant Hip and Knee Surgeon, Royal Berkshire Hospital
+
+> “Willing to push you as a trainee”
+
+> “Ensures space for trainee cases on every list”
