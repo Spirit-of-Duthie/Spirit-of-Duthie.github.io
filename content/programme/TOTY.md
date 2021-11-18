@@ -4,9 +4,9 @@ showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
 title = "TOTY Nominations"
 draft = false
-weight = 8
+weight = 9
 +++
-12:45-12:50
+12:50-12:55
 
 Live voting later in the day, with presentations at Duthie Day Dinner
 <!--more-->

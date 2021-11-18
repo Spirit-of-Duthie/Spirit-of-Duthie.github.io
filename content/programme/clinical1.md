@@ -4,12 +4,14 @@ showonlyimage = false
 draft = false
 date = "2016-11-05T19:53:42+05:30"
 title = "Clinical Sessions"
-weight = 11
+weight = 4
 +++
-Chaired by Prof Xavier Griffin
+Chaired by Mr Andy Wainwright
 
-14:30-15:45
+09:45-11:05
 <!--more-->
+
+
 
 Presentations from our clinical trainees who, despite no dedicated time for research, have been involved in clinical trials and developing new patient pathways. Themes this year include:
 
@@ -22,28 +24,48 @@ At the end of the day, there will be live voting and prizes for the best present
 
 Presentations will last six minutes, with time for questions after every third candidate.
 
-### Time, Trainee name
+### 0945 Alex Woods
 
-#### Title
+Title: Shoulder instability in Military personnel: Diagnosis and outcomes of arthroscopic stabilisation
 
+### 0951 Cat Luney
 
-##### Aim
+Title: VTE prophylaxis in paediatric trauma patients: attitudes towards risk assessment and prescribing
 
-Project Aims  
+### 0957 Andrew Bernard
 
-##### Methods
+Title: Assessing Pre-referral Microbiology in Osteomyelitis: What Does it Tell Us?
 
-and methods...
+### 1003 Questions
 
-##### Results
+### 1009 Joe Dixon
 
-and results...
+Title: A safety evaluation of the resumption of elective Orthopaedic services in higher risk patients during the Covid-19 pandemic
 
-##### Conclusions
+### 1015 Martina Galea Wismayer
 
-and conclusiosn...
+Title: The Joint Specific BACH classification: A Predictor of Outcome in Prosthetic Joint Infection
 
-.
+### 1021 Christian Gray Stephens
 
+Title: Penthrox for quicker management of fractures, dislocations and more: Trauma in the Emergency Department during the COVID-19 pandemic.
 
-## Time Questions after three speakers
+### 1027 Questions
+
+### 1033 Rob Middleton
+
+Title: Audit of pelvic radiographs for hip surveillance in children with cerebral palsy
+
+### 1039 Jamie Hinds
+
+Title: Safe Shoulder Replacement Outcomes in a Stand-Alone Day Case Unit in the United Kingdom
+
+### 1045 Bhavi Patel
+
+Title: Lessons Learnt from Managing Orthopaedic Trauma During the First Wave of the COVID-19 Pandemic at a UK District General Hospital
+
+### 1051 Alex Woods
+
+Title: Factors affecting the outcomes of arthroscopic ankle fusion
+
+### 1057 Questions

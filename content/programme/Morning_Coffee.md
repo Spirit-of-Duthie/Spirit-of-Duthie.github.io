@@ -7,7 +7,7 @@ title = "Coffee time"
 weight = 5
 +++
 
-10:45-11:00
+11:05-11:30
 <!--more-->
 
 Please visit our sponsors: their generosity helps support this day, and they've got prizes to win this year!

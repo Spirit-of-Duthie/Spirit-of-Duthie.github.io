@@ -4,7 +4,7 @@ showonlyimage = false
 date = "2016-11-05T19:57:40+05:30"
 title = "Delegates dinner"
 draft = false
-weight = 16
+weight = 18
 +++
 
 19:00 onwards. Please remember to [book your tickets](https://spirit-of-duthie.github.io/public/contact/) in advance, and bring your tickets.

@@ -6,7 +6,9 @@ title = "Guest Speaker Prof Martin McNally"
 draft = false
 weight = 7
 +++
-11:45-12:45
+12:00-12:45
+
+"Osteomyelitis; new perspectives on an old disease"
 <!--more-->
 
 We have the pleasure of hosting a number of eminent speakers from around the world.

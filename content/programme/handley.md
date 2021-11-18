@@ -1,14 +1,14 @@
 +++
-image = "img/dodds.jpg"
+image = "img/handley.png"
 showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
-title = "Guest Speaker Richard Dodds"
+title = "Guest Speaker Mr Bob Handley"
 draft = false
-weight = 11
+weight = 15
 +++
-13:30-14:30
+15:35-16:20
 
-"Elite Performance and Survival in Surgery"
+"Getting it right second time...perhaps third!"
 <!--more-->
 
 We have the pleasure of hosting a number of eminent speakers from around the world.

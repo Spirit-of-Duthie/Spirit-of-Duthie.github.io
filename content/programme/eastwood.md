@@ -6,7 +6,9 @@ title = "Guest Speaker Deborah Eastwood"
 draft = false
 weight = 3
 +++
-09:00-10:00
+09:00-09:45
+
+"Challenging Change"
 <!--more-->
 
 We have the pleasure of hosting a number of eminent speakers from around the world.
