@@ -87,6 +87,16 @@ Consultant Hip and Knee Surgeon, Royal Berkshire Hospital
 
 ***
 
+### David Noyes
+
+Consultant Trauma Surgeon, John Radcliffe Hospital
+
+> "One of the best and most engaged trainers in the region, and is long overdue for this recognition"
+
+> "His calm demeanour, years of experience and skill level provides an excellent environment for training in theatre"
+
+***
+
 ### Andy Titchener
 
 Consultant Shoulder and Elbow Surgeon, John Radcliffe Hospital and Nuffield Orthopaedic Centre
@@ -104,6 +114,8 @@ Consultant Spinal Surgeon, Stoke Mandeville Hospital
 > “provides a calm relaxed atmosphere for trainees to flourish”
 
 > “Ample opportunities for trainees to refine and develop surgical spinal skills”
+
+***
 
 ### Ed Tayton
 
